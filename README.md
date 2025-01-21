@@ -12,7 +12,7 @@ This is a basic web project that includes an `index.html` file along with `style
    - The `style.css` file is used for styling the webpage.
    - The `script.js` file includes any JavaScript functionality.
 
-# وب سایت دیجیتال مارکیتینگ
+# وب سایت دیجیتال مارکتینگ
 
 این یک پروژه وب ساده است که شامل یک فایل `index.html` به همراه `style.css` برای استایل‌دهی و `script.js` برای هرگونه عملکرد جاوااسکریپت می‌باشد. برای استفاده از این پروژه، مراحل زیر را دنبال کنید:
 
@@ -22,4 +22,4 @@ This is a basic web project that includes an `index.html` file along with `style
 2. **کاوش پروژه:**
    - فایل `index.html` شامل ساختار اصلی صفحه وب است.
    - فایل `style.css` برای استایل‌دهی صفحه وب استفاده می‌شود.
-   - فایل `script.js` شامل هرگونه عملکرد جاوااسکریپت است.
+   - فایل `script.js` شامل هرگونه عملکرد جاوا اسکریپت است.
